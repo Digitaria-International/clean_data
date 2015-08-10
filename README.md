@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Add text line to your model:
+Add next line to your model:
 
     include CleanData
 

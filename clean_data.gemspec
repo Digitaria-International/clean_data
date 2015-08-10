@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Evgeniy Maslov"]
   spec.email         = ["eum@anahoret.com"]
 
-  spec.summary       = "Write a short summary, because Rubygems requires one."
-  spec.description   = "Write a longer description or delete this line."
-  spec.homepage      = "http://mygemserver.com"
+  spec.summary       = %q{Simple gem for auto strip String attrs}
+  spec.description   = %q{Simple gem for auto strip String attrs}
+  spec.homepage      = "https://github.com/xarimanx/clean_data"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
